@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+* {
+    font-family: 'PT Serif', serif;
+}
+h1 {
+    text-align: center;
+}
+ul {
+    border: 1px blue;
+    padding: 20px;
+    background-color: aqua;
+}
+.taco{
+    width: 300px;
+    border: 120px green solid; 
+} 
+div{
+   border:solid 5px purple;
+   width: 250px;   
+   height: 250px;  
+
+}
